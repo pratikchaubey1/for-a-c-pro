@@ -1,7 +1,8 @@
-// write the program to implement the 2D matrix  take the input from user and print the matrix
-#include <stdio.h>
+// write a program  to imolemenet multiplication and transpore of 2D matrix
 
-int main() {
+#include<stdio.h>
+
+int main(){
 
     int rows, cols;
 
@@ -32,5 +33,14 @@ int main() {
         printf("\n");
     }
 
-    return 0;
+    
+    printf("Transpose of the Matrix is:\n");
+
+    for (int i = 0; i < cols; i++) {
+        for (int j = 0; j < rows; j++) {
+            printf("%d ", arr[j][i]);
+        }
+        printf("\n");
+    }
+  return 0;
 }
