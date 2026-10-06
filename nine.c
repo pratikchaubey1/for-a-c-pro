@@ -1,4 +1,9 @@
 #include<stdio.h>
 int main(){
-  return 0 ; 
+    
+    int str[] = "hello";
+    
+    printf("%s",str);
+    
+    return 0;
 }
