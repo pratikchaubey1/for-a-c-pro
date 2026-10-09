@@ -1,6 +1,1 @@
-#include<stdio.h>
-
-int main(){
-  printf("hello there my name is pratik chaturvedi ");
-  return 0 ;
-}
+//  wap the declare initialize and display a pointer address using the * and & operator and demorstrate prointer arithmetic 
