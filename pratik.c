@@ -1,1 +1,0 @@
-//  wap the declare initialize and display a pointer address using the * and & operator and demorstrate prointer arithmetic 
