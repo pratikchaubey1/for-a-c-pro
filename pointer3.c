@@ -19,3 +19,4 @@ int main(){
     printf("value of a after modification %d\n",a);
   return 0;
 }
+//hello dear firends 
