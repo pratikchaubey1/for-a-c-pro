@@ -21,6 +21,6 @@ int main(){
     
     printf("after swaping x = %d , y = %d" ,x,y  )
     
-    return 0;
+    return 1;
     
 }
